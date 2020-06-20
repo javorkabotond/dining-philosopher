@@ -103,14 +103,16 @@ public class Philosopher implements Runnable {
         synchronized (Table.chairs) {
             for (int i = 0; i < Table.chairs.length; i++) {
                 // Atul egy masik szekre
-                if(!Table.chairs[i]) {
-                    Table.chairs[i] = true;
-                    Table.chairs[currentChair] = false;
-                    currentChair = i;
-                    Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus atult a szekre: " + (currentChair + 1) + ".");
-                    return;
+                if(i != currentChair){
+                    if(!Table.chairs[i]) {
+                        Table.chairs[i] = true;
+                        Table.chairs[currentChair] = false;
+                        currentChair = i;
+                        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus atult a szekre: " + (currentChair + 1) + ".");
+                        return;
+                    }
+                    Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus nem tudt atulni a(z) " + (i + 1) + ". a szekre.");
                 }
-                Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus nem tudt atulni a(z) " + (i + 1) + ". a szekre.");
             }
 
         }
