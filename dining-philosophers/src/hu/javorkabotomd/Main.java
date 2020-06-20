@@ -51,7 +51,7 @@ public class Main {
             Philosopher philosopher = new Philosopher(i, n);
             executorService.submit(philosopher);
         }
-        //executorService.shutdown();
+        executorService.shutdown();
     }
 
     /**

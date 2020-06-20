@@ -102,15 +102,17 @@ public class Philosopher implements Runnable {
     private void sitIntoADifferentChairAtTheTable() {
         synchronized (Table.chairs) {
             for (int i = 0; i < Table.chairs.length; i++) {
-                    // Atul egy masik szekre
-                    if(!Table.chairs[i]) {
-                        Table.chairs[i] = true;
-                        Table.chairs[currentChair] = false;
-                        currentChair = i;
-                        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus atul a szekre: " + (currentChair + 1) + ".");
-                        return;
-                    }
+                // Atul egy masik szekre
+                if(!Table.chairs[i]) {
+                    Table.chairs[i] = true;
+                    Table.chairs[currentChair] = false;
+                    currentChair = i;
+                    Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus atult a szekre: " + (currentChair + 1) + ".");
+                    return;
+                }
+                Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus nem tudt atulni a(z) " + (i + 1) + ". a szekre.");
             }
+
         }
     }
 
@@ -123,13 +125,16 @@ public class Philosopher implements Runnable {
             Table.extraChair.lock();
             synchronized (Table.chairs) {
                 Table.chairs[currentChair] = false;
-                Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus kiul az extraszekre");
+                Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus kiult az extraszekre");
             }
             currentChair = -1;
             // Eldonti melyik kezet preferalja
             sleepForRandom(id);
             decideOnPreferredHand();
+        } else {
+            Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". nem tudott leulni az extra szekre.");
         }
+
     }
 
     /**
@@ -141,8 +146,8 @@ public class Philosopher implements Runnable {
         } else {
             preferedLeftHand();
         }
-        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus a(z) " + (currentChair + 1) + ". szeken eszik: " + eatenFood);
-        Logging.fillPhilosopherEatenLogList("A(z) " + (id + 1) + ". filozofus a(z) " + (currentChair + 1) + ". szeken eszik: " + eatenFood);
+        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus a(z) " + (currentChair + 1) + ". szeken evett: " + eatenFood);
+        Logging.fillPhilosopherEatenLogList("A(z) " + (id + 1) + ". filozofus a(z) " + (currentChair + 1) + ". szeken evett: " + eatenFood);
     }
 
     /**
@@ -189,7 +194,7 @@ public class Philosopher implements Runnable {
     private void sittingToExtraChair() {
         Table.extraChair.lock();
         currentChair = -1;
-        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus raul az extra szekre.");
+        Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". filozofus rault az extra szekre.");
     }
 
     /**
@@ -247,6 +252,8 @@ public class Philosopher implements Runnable {
         int seconds = getRandomNumber(500,2000);
         try {
             TimeUnit.MILLISECONDS.sleep(seconds);
+            Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". varakozot: " + seconds + " milliszekundumot.");
+
         } catch (InterruptedException e) {
             System.out.println("Hiba a filozofusok varakozasanal");
         }
