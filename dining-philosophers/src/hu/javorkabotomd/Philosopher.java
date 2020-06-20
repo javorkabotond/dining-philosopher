@@ -253,7 +253,6 @@ public class Philosopher implements Runnable {
         try {
             TimeUnit.MILLISECONDS.sleep(seconds);
             Logging.logToFile(Level.INFO,"A(z) " + (id + 1) + ". varakozot: " + seconds + " milliszekundumot.");
-
         } catch (InterruptedException e) {
             System.out.println("Hiba a filozofusok varakozasanal");
         }

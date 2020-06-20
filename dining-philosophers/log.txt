@@ -1,332 +1,432 @@
- Jun 20, 2020 5:14:17 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:15 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus rault az extra szekre.
-Jun 20, 2020 5:14:19 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1503 milliszekundumot.
-Jun 20, 2020 5:14:19 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:16 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 766 milliszekundumot.
+Jun 20, 2020 5:44:16 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus valasztott kezet.
-Jun 20, 2020 5:14:20 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 885 milliszekundumot.
-Jun 20, 2020 5:14:20 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:17 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 569 milliszekundumot.
+Jun 20, 2020 5:44:17 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus atul az asztalhoz a(z) 1. szekre
-Jun 20, 2020 5:14:20 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:17 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus rault az extra szekre.
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1178 milliszekundumot.
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus valasztott kezet.
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1316 milliszekundumot.
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:17 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 517 milliszekundumot.
+Jun 20, 2020 5:44:17 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus a(z) 1. szeken evett: 1
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 691 milliszekundumot.
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus atul az asztalhoz a(z) 2. szekre
-Jun 20, 2020 5:14:21 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus rault az extra szekre.
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 632 milliszekundumot.
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus a(z) 2. szeken evett: 1
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1401 milliszekundumot.
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:22 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus atult a szekre: 3.
-Jun 20, 2020 5:14:23 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1415 milliszekundumot.
-Jun 20, 2020 5:14:23 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus valasztott kezet.
-Jun 20, 2020 5:14:23 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1312 milliszekundumot.
-Jun 20, 2020 5:14:23 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus atult a szekre: 1.
-Jun 20, 2020 5:14:24 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1254 milliszekundumot.
-Jun 20, 2020 5:14:24 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus a(z) 3. szeken evett: 2
-Jun 20, 2020 5:14:24 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 825 milliszekundumot.
-Jun 20, 2020 5:14:24 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus atul az asztalhoz a(z) 2. szekre
-Jun 20, 2020 5:14:24 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus rault az extra szekre.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 844 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus valasztott kezet.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1246 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus a(z) 1. szeken evett: 2
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1175 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus a(z) 3. szeken evett: 3
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1500 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus atult a szekre: 4.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 692 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus atult a szekre: 2.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 957 milliszekundumot.
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus atul az asztalhoz a(z) 3. szekre
-Jun 20, 2020 5:14:25 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus rault az extra szekre.
-Jun 20, 2020 5:14:26 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 771 milliszekundumot.
-Jun 20, 2020 5:14:26 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus a(z) 4. szeken evett: 1
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1969 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1511 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1603 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus valasztott kezet.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1704 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 679 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus nem tudt atulni a(z) 3. a szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus nem tudt atulni a(z) 4. a szekre.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus atult a szekre: 5.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1496 milliszekundumot.
-Jun 20, 2020 5:14:27 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus a(z) 4. szeken evett: 2
-Jun 20, 2020 5:14:28 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1196 milliszekundumot.
-Jun 20, 2020 5:14:28 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus a(z) 3. szeken evett: 1
-Jun 20, 2020 5:14:28 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1158 milliszekundumot.
-Jun 20, 2020 5:14:28 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1524 milliszekundumot.
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus atult a szekre: 1.
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1882 milliszekundumot.
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus atul az asztalhoz a(z) 5. szekre
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1622 milliszekundumot.
-Jun 20, 2020 5:14:29 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus a(z) 4. szeken evett: 3
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 832 milliszekundumot.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus kiult az extraszekre
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1571 milliszekundumot.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1730 milliszekundumot.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus atult a szekre: 1.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1220 milliszekundumot.
-Jun 20, 2020 5:14:30 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 602 milliszekundumot.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1870 milliszekundumot.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1546 milliszekundumot.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:18 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1000 milliszekundumot.
+Jun 20, 2020 5:44:18 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus valasztott kezet.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1538 milliszekundumot.
-Jun 20, 2020 5:14:31 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus a(z) 3. szeken evett: 2
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1112 milliszekundumot.
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus a(z) 5. szeken evett: 1
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1900 milliszekundumot.
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 1776 milliszekundumot.
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:19 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 1466 milliszekundumot.
+Jun 20, 2020 5:44:19 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:32 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:19 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 1. filozofus atult a szekre: 2.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1810 milliszekundumot.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:20 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1994 milliszekundumot.
+Jun 20, 2020 5:44:20 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus atul az asztalhoz a(z) 1. szekre
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1734 milliszekundumot.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus a(z) 3. szeken evett: 3
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1201 milliszekundumot.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus nem tudt atulni a(z) 3. a szekre.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus nem tudt atulni a(z) 4. a szekre.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus nem tudt atulni a(z) 5. a szekre.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 856 milliszekundumot.
-Jun 20, 2020 5:14:33 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus a(z) 2. szeken evett: 4
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1432 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus a(z) 4. szeken evett: 4
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 642 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus a(z) 5. szeken evett: 2
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. varakozot: 672 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus a(z) 2. szeken evett: 5
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 1. filozofus befejezte az evest.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 808 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus kiult az extraszekre
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1456 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus a(z) 1. szeken evett: 3
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1448 milliszekundumot.
-Jun 20, 2020 5:14:34 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus a(z) 3. szeken evett: 4
-Jun 20, 2020 5:14:35 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 918 milliszekundumot.
-Jun 20, 2020 5:14:35 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:35 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 528 milliszekundumot.
-Jun 20, 2020 5:14:35 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus a(z) 5. szeken evett: 3
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 529 milliszekundumot.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus a(z) 5. szeken evett: 4
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 1461 milliszekundumot.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1514 milliszekundumot.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus valasztott kezet.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1981 milliszekundumot.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:20 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus rault az extra szekre.
+Jun 20, 2020 5:44:20 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 1498 milliszekundumot.
+Jun 20, 2020 5:44:20 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 754 milliszekundumot.
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus nem tudt atulni a(z) 3. a szekre.
-Jun 20, 2020 5:14:36 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus atult a szekre: 4.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 570 milliszekundumot.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus atult a szekre: 1.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 705 milliszekundumot.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus atul az asztalhoz a(z) 3. szekre
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 505 milliszekundumot.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus kiult az extraszekre
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 762 milliszekundumot.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus nem tudt atulni a(z) 1. a szekre.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus nem tudt atulni a(z) 2. a szekre.
-Jun 20, 2020 5:14:37 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus atult a szekre: 3.
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1949 milliszekundumot.
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. nem tudott leulni az extra szekre.
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1565 milliszekundumot.
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus a(z) 4. szeken evett: 4
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. varakozot: 847 milliszekundumot.
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus a(z) 3. szeken evett: 5
-Jun 20, 2020 5:14:38 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 4. filozofus befejezte az evest.
-Jun 20, 2020 5:14:39 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 1658 milliszekundumot.
-Jun 20, 2020 5:14:39 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus atult a szekre: 3.
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 736 milliszekundumot.
+Jun 20, 2020 5:44:21 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. filozofus a(z) 2. szeken evett: 2
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1556 milliszekundumot.
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 3. filozofus valasztott kezet.
-Jun 20, 2020 5:14:39 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. varakozot: 1635 milliszekundumot.
-Jun 20, 2020 5:14:39 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus a(z) 5. szeken evett: 5
-Jun 20, 2020 5:14:39 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 5. filozofus befejezte az evest.
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 717 milliszekundumot.
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 1013 milliszekundumot.
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. filozofus a(z) 2. szeken evett: 3
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1600 milliszekundumot.
+Jun 20, 2020 5:44:22 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:23 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1348 milliszekundumot.
+Jun 20, 2020 5:44:23 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 3. filozofus atul az asztalhoz a(z) 1. szekre
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. varakozot: 1840 milliszekundumot.
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 2. filozofus a(z) 4. szeken evett: 5
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:23 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus rault az extra szekre.
+Jun 20, 2020 5:44:23 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 850 milliszekundumot.
+Jun 20, 2020 5:44:23 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. filozofus a(z) 2. szeken evett: 4
+Jun 20, 2020 5:44:24 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 826 milliszekundumot.
+Jun 20, 2020 5:44:24 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:24 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1808 milliszekundumot.
+Jun 20, 2020 5:44:24 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus a(z) 3. szeken evett: 1
+Jun 20, 2020 5:44:25 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1862 milliszekundumot.
+Jun 20, 2020 5:44:25 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus valasztott kezet.
+Jun 20, 2020 5:44:25 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1872 milliszekundumot.
+Jun 20, 2020 5:44:25 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus a(z) 1. szeken evett: 1
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1394 milliszekundumot.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus atult a szekre: 4.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. varakozot: 1825 milliszekundumot.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. filozofus a(z) 2. szeken evett: 5
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 1. filozofus befejezte az evest.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1227 milliszekundumot.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atul az asztalhoz a(z) 3. szekre
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus rault az extra szekre.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1621 milliszekundumot.
+Jun 20, 2020 5:44:26 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1233 milliszekundumot.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:27 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus atult a szekre: 5.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 1741 milliszekundumot.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus valasztott kezet.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1840 milliszekundumot.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atult a szekre: 4.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1971 milliszekundumot.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus atult a szekre: 3.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1590 milliszekundumot.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 637 milliszekundumot.
+Jun 20, 2020 5:44:28 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atult a szekre: 1.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 779 milliszekundumot.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus atul az asztalhoz a(z) 4. szekre
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 506 milliszekundumot.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 685 milliszekundumot.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 702 milliszekundumot.
+Jun 20, 2020 5:44:29 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus kiult az extraszekre
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 1009 milliszekundumot.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus atult a szekre: 5.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 951 milliszekundumot.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 813 milliszekundumot.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus a(z) 5. szeken evett: 1
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 520 milliszekundumot.
+Jun 20, 2020 5:44:30 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus a(z) 1. szeken evett: 1
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1574 milliszekundumot.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus valasztott kezet.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1720 milliszekundumot.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus atult a szekre: 4.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 682 milliszekundumot.
+Jun 20, 2020 5:44:31 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus a(z) 5. szeken evett: 2
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1258 milliszekundumot.
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus a(z) 1. szeken evett: 2
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 883 milliszekundumot.
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus a(z) 5. szeken evett: 3
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1713 milliszekundumot.
+Jun 20, 2020 5:44:32 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus atul az asztalhoz a(z) 3. szekre
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 656 milliszekundumot.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus a(z) 5. szeken evett: 4
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 949 milliszekundumot.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1997 milliszekundumot.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus a(z) 4. szeken evett: 2
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 562 milliszekundumot.
+Jun 20, 2020 5:44:33 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus a(z) 1. szeken evett: 3
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1188 milliszekundumot.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus a(z) 3. szeken evett: 2
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. varakozot: 1261 milliszekundumot.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus a(z) 5. szeken evett: 5
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 5. filozofus befejezte az evest.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1442 milliszekundumot.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus a(z) 4. szeken evett: 3
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1139 milliszekundumot.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:34 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:35 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 932 milliszekundumot.
+Jun 20, 2020 5:44:35 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus kiult az extraszekre
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1935 milliszekundumot.
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus a(z) 3. szeken evett: 3
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 624 milliszekundumot.
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus valasztott kezet.
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1792 milliszekundumot.
+Jun 20, 2020 5:44:36 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 767 milliszekundumot.
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus atul az asztalhoz a(z) 4. szekre
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1045 milliszekundumot.
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus kiult az extraszekre
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 1892 milliszekundumot.
+Jun 20, 2020 5:44:37 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus a(z) 3. szeken evett: 4
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1414 milliszekundumot.
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus a(z) 4. szeken evett: 4
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 603 milliszekundumot.
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1002 milliszekundumot.
+Jun 20, 2020 5:44:38 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus valasztott kezet.
+Jun 20, 2020 5:44:39 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. varakozot: 780 milliszekundumot.
+Jun 20, 2020 5:44:39 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 2. filozofus a(z) 3. szeken evett: 5
+Jun 20, 2020 5:44:39 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 2. filozofus befejezte az evest.
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. varakozot: 590 milliszekundumot.
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
-INFO: A(z) 3. filozofus a(z) 1. szeken evett: 5
-Jun 20, 2020 5:14:40 PM hu.javorkabotomd.Logging logToFile
+Jun 20, 2020 5:44:39 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1261 milliszekundumot.
+Jun 20, 2020 5:44:39 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:40 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 610 milliszekundumot.
+Jun 20, 2020 5:44:40 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus atult a szekre: 1.
+Jun 20, 2020 5:44:40 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1768 milliszekundumot.
+Jun 20, 2020 5:44:40 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atul az asztalhoz a(z) 4. szekre
+Jun 20, 2020 5:44:41 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 794 milliszekundumot.
+Jun 20, 2020 5:44:41 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus kiult az extraszekre
+Jun 20, 2020 5:44:41 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1257 milliszekundumot.
+Jun 20, 2020 5:44:41 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atult a szekre: 1.
+Jun 20, 2020 5:44:42 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 921 milliszekundumot.
+Jun 20, 2020 5:44:42 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus valasztott kezet.
+Jun 20, 2020 5:44:42 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 998 milliszekundumot.
+Jun 20, 2020 5:44:42 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus a(z) 1. szeken evett: 4
+Jun 20, 2020 5:44:43 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1656 milliszekundumot.
+Jun 20, 2020 5:44:43 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus atul az asztalhoz a(z) 4. szekre
+Jun 20, 2020 5:44:43 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1164 milliszekundumot.
+Jun 20, 2020 5:44:43 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus kiult az extraszekre
+Jun 20, 2020 5:44:45 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1367 milliszekundumot.
+Jun 20, 2020 5:44:45 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. nem tudott leulni az extra szekre.
+Jun 20, 2020 5:44:45 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1352 milliszekundumot.
+Jun 20, 2020 5:44:45 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus valasztott kezet.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 1229 milliszekundumot.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus atul az asztalhoz a(z) 1. szekre
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1847 milliszekundumot.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:46 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:47 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. varakozot: 992 milliszekundumot.
+Jun 20, 2020 5:44:47 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus a(z) 1. szeken evett: 5
+Jun 20, 2020 5:44:47 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 4. filozofus befejezte az evest.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 1253 milliszekundumot.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:48 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 929 milliszekundumot.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 1. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 2. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 3. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 4. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus nem tudt atulni a(z) 5. a szekre.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. varakozot: 831 milliszekundumot.
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
+INFO: A(z) 3. filozofus a(z) 4. szeken evett: 5
+Jun 20, 2020 5:44:49 PM hu.javorkabotomd.Logging logToFile
 INFO: A(z) 3. filozofus befejezte az evest.
